@@ -1,7 +1,7 @@
-<img align="center" alt="Coding" width="1000" src="igff.gif">
+<!-- Banner -->
+<img align="center" alt="Profile Banner" width="1000" src="https://github.com/shraddhaghadage/shraddhaghadage/blob/main/profile.gif?raw=true">
 
-<h1 align="center">Hey 👋, I'm Shraddha Ghadage</h1>
-<h3 align="center">🌍 From India | 💻 Software Development Intern @ Prodigy InfoTech</h3>
+<h3 align="center">🌍 From India 🙏</h3>
 
 ---
 
