@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img align="center" alt="Profile Banner" width="1000" src="https://github.com/shraddhaghadage/shraddhaghadage/blob/main/profile.gif?raw=true">
+<img align="center" alt="Profile Banner" width="1000" src="https://github.com/shraddhaghadage/shraddhaghadage/blob/main/profile%20gif.gif">
 
 <h3 align="center">🌍 From India 🙏</h3>
 
