@@ -1,15 +1,41 @@
-<img align=" centre" alt="Coding" width="1000" src="igff.gif">
+<img align="center" alt="Coding" width="1000" src="igff.gif">
 
-<h3 align="center">from India 🙏</h3>
+<h1 align="center">Hey 👋, I'm Shraddha Ghadage</h1>
+<h3 align="center">🌍 From India | 💻 Software Development Intern @ Prodigy InfoTech</h3>
 
+---
 
+### 🚀 About Me
+🔹 Turning **data into stories** and **code into solutions**  
+🔹 Transitioned from **analytics & geospatial insights** to **software development**  
+🔹 Skilled in **Python, Power BI, Cloud Tools, and Geospatial Analytics**  
+🔹 Passionate about **workplace fairness, tech education, and social impact**  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+🌱 **Learn. Explore. Grow.**  
+📖 Always learning.  
+🚀 Always improving.  
+🤝 Let’s connect!  
 
+---
+
+### 🛠️ Languages and Tools
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shraddhaghadage&show_icons=true&locale=en&layout=compact" alt="shraddhaghadage" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shraddhaghadage&show_icons=true&locale=en" alt="shraddhaghadage" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shraddhaghadage&" alt="shraddhaghadage" /></p>
 
+---
+
+### 🌟 Fun Fact
+💡 *“From geospatial maps to software apps — I connect the dots.”*
